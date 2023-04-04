@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elder Buchini</h1>
+<h1 align="center">Hi 👋, Olá, sou o Elder Buchini</h1>
 <h3 align="center">Amante da Tecnologia, Programação e Segurança da Informação</h3>
 
 - Estou estudando atualmente **Python, SQL, PHP, Django, Linux, Pentest**
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ebsn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ebsn/" height="30" width="40" /></a>
-<a href="https://instagram.com/@e_buchini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@e_buchini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ebsn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ebsn/" height="30" width="40" /></a>
+<a href="https://instagram.com/e_buchini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@e_buchini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
