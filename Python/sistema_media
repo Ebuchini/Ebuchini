@@ -1,6 +1,5 @@
 print("\n\n==== VERIFICAÇÃO DE NOTAS DOS ESTUDANTES ==== \n")
 
-
 def cad_nota():
     nome = input("Digite o nome do Aluno: ")
     while not nome.isalpha():
